@@ -19,14 +19,14 @@ A CTF requires contestants to integrate concepts, develop skills and learn to ha
 Developing the ability to find flags quickly takes practice more than anything, and participating in numerous CTFs will allow you to expand your understanding and abilities, leading you to success. Spend some time on CTFTime working through CTFs to truly improve and learn.
 
 ## Topics
-[Binary_Reversing](TypesOfCTFs/Binary_Reversing/)
+[Binary_Reversing](Types_Of_Problems/Binary_Reversing/)
 
-[Cryptography](TypesOfCTFs/Cryptography/)
+[Cryptography](Types_Of_Problems/Cryptography/)
 
-[Forensics](TypesOfCTFs/Forensics/)
+[Forensics](Types_Of_Problems/Forensics/)
 
-[Steganography](TypesOfCTFs/Steganography/)
+[Steganography](Types_Of_Problems/Steganography/)
 
-[Web](TypesOfCTFs/Web/)
+[Web](Types_Of_Problems/Web/)
 
-[Misc](TypesOfCTFs/Misc/)
+[Misc](Types_Of_Problems/Misc/)
