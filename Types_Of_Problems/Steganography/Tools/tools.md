@@ -4,4 +4,4 @@
 [ImageMagick toolset](http://www.imagemagick.org/script/index.php) enables you to quickly identify, resize, crop, modify, convert, and otherwise manipulate image files.Its compare tool is quite handy when presented with two seemingly identical images.The Important point is that *it can be incorporated into scripts*.  
 
 ## Python libraries
-[Python Image Library](http://pythonware.com/products/pil/)  
+[Python Image Library](https://pypi.org/project/Pillow/)  
